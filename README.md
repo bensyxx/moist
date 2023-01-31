@@ -8,3 +8,6 @@
   <img alt="GitHub Discussions" src="https://img.shields.io/github/discussions/bensyxx/moist?style=plastic">
   <img align=right alt="GitHub contributors" src="https://img.shields.io/github/contributors/bensyxx/moist?style=plastic">
 </p>
+
+<h3>Moist</h3>
+<h5>a successor to b++</h5>

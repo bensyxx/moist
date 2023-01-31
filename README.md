@@ -9,5 +9,10 @@
   <img align=right alt="GitHub contributors" src="https://img.shields.io/github/contributors/bensyxx/moist?style=plastic">
 </p>
 
-<h3>Moist</h3>
-<h5>a successor to b++</h5>
+<h1 align=center>Moist</h3>
+<h3 align=center>A sucessor to B++ with all the same components</h3>
+
+<br><br><br>
+
+<h3 style="color: red;">Caution over here!</h3>
+<p> This project is very new. Nothing works...</p>

@@ -9,12 +9,14 @@
   <img align=right alt="GitHub contributors" src="https://img.shields.io/github/contributors/bensyxx/moist?style=plastic">
 </p>
 
-<h1 align=center>Moist</h3>
-<h3 align=center>A sucessor to B++ with all the same components</h3>
+<h3 align=center>(still) a programming language made by people who don't write programming languages.</h3>
 
 <br><br><br>
 
-<h3 style="color: red;">Caution over here!</h3>
-<p> This project is very new. Nothing works...</p>
+<p>This project is open-source and I literally could not care less if you stole every single asset in this project. I didn't make this for a bigger status or anything, I just pretend I'm really good at doing that. Enjoy.</p>
+
+<p>When I finally release this project, Xylo may or may not work. I don't know.</p>
+
+k bye
 
 <p>While you're down here, check out <a href="https://github.com/bensyxx/NoGuardian">NoGuardian</a>.

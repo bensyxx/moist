@@ -6,6 +6,8 @@ namespace Dotnet;
     
     public static void Main(string[] args) {
       
-      Console.WriteText("read")
+      Console.WriteLine("loading moist file interpreter");
+      Console.WriteLine("THERES NOTHING HERE!!!! WHY ARE YOU READING THIS?: ");
+      string randomCrapIdk = Console.ReadLine();
       
     }

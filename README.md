@@ -16,3 +16,5 @@
 
 <h3 style="color: red;">Caution over here!</h3>
 <p> This project is very new. Nothing works...</p>
+
+<p>While you're down here, check out <a href="https://github.com/bensyxx/NoGuardian">NoGuardian</a>.
